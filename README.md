@@ -25,4 +25,10 @@ The neutral SMPL-X model with the FLAME 2020 expression blendshapes:
 [Link](https://download.is.tue.mpg.de/download.php?domain=smplx&sfile=SMPLX_NEUTRAL_2020.npz)
 
 
+Run the code 
+```
+python smplx_vis.py 
+```
+![Screenshot from 2025-04-16 12-33-44](https://github.com/user-attachments/assets/f8e5d445-d6a1-4d15-8b8f-ff2b93459702)
+
 
