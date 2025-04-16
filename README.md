@@ -15,5 +15,14 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 ```
 
+Download the SMPLX Neutral model 2020
+
+[SMPL-X](https://smpl-x.is.tue.mpg.de/download.php)
+
+SMPL-X 2020
+The neutral SMPL-X model with the FLAME 2020 expression blendshapes:
+
+[Link](https://download.is.tue.mpg.de/download.php?domain=smplx&sfile=SMPLX_NEUTRAL_2020.npz)
+
 
 
